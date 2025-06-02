@@ -69,7 +69,7 @@ Determine the wavespeed for our traveling wave. In the data browser, scroll over
 
 ## References
 
-Ermentrout B (2002) Simulating, analyzing, and animating dynamical systems: SIAM.
+Ermentrout B (2002) Simulating, analyzing, and animating dynamical systems: SIAM.  
 Hodgkin AL, Huxley AF (1952) A quantitative description of membrane current and its application to conduction and excitation in nerve. *J Physiol* 117:500-544.
 
 ---
